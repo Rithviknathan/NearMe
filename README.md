@@ -1,6 +1,7 @@
 # Ex04 Places Around Me
-## Date: 
-
+## Date: 23-04-2025
+## RITHVIK S
+## 212223100045
 ## AIM
 To develop a website to display details about the places around my house.
 
